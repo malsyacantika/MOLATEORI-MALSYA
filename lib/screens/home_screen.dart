@@ -3,17 +3,17 @@ import 'package:flutter/material.dart';
 final List<Map<String, String>> posts = [
   {
     'name': 'Lian',
-    'image': 'https://i.pinimg.com/564x/ae/f0/aa/aef0aa7b52.jpg',
+    'image': 'https://picsum.photos/400/300',
     'caption': 'Hari ini seru banget',
   },
   {
     'name': 'Aatipah',
-    'image': 'https://i.pinimg.com/564x/f1/45/32/f14532aa1.jpg',
-    'caption': 'Pink vibes all day',
+    'image': 'https://picsum.photos/id/1003/400/300',
+    'caption': 'vibes all day',
   },
   {
     'name': 'Malsya',
-    'image': 'https://i.pinimg.com/564x/23/bb/61/23bb61aa.jpg',
+    'image': 'https://picsum.photos/id/237/400/300',
     'caption': 'Mood booster',
   },
 ];
